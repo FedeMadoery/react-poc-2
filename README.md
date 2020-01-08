@@ -1,15 +1,20 @@
-# ReactJS - PoC
+# ReactJS - PoC - 2
 
-_Prueba de concepto sobre ReactJS, basada en la construcción de una lista de TODOs_
+_Prueba de concepto sobre ReactJS, basada en la construcción de un manejador de reviews sobre peliculas_
 
 ## Consigna 📄
 
-_Usando preferentemente~ las librerías que están en `package.json` deberás construir una aplicación que gestione una lista de TODOs, tareas por hacer, y cumpla los siguientes items:_
+_Usando preferentemente~ las librerías que están en `package.json` deberás construir una aplicación que gestione una lista sobre distintas peliculas y cumpla los siguientes items:_
 
- * Liste todas las tareas.
- * Inspeccionar las tareas.
- * Agregar, eliminar y/o editar cada una de las tareas.
- * Filtrar las tareas.
+ * Liste todas las peliculas.
+ * Inspeccionar las peliculas.
+ * Agregar, eliminar y/o editar cada una de las peliculas.
+   * Editar:
+     * Rating
+     * Descripción
+     * Clasificación
+     * Trailer
+ * Filtrar las peliculas.
 
 _Para la construcción 🛠️ de componentes deberas elegir entre alguno de los siguientes frameworks_
 
